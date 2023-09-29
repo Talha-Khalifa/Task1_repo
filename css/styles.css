@@ -1,0 +1,12 @@
+/* Student Name: Talha Khalifa 
+   Student Number: 8869673*/
+body{
+    height : 100vh;
+    width : 100vw;
+    background-color: hsla(196, 92%, 45%, 0.2);
+    font : normal normal normal 12px/1.5 Verdana, Arial, Helvetica, sans-serif;
+}
+h2{
+    color: rgb(115, 170, 5);
+    font-size: 2rem;
+}
